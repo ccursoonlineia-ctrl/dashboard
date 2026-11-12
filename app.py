@@ -3,7 +3,7 @@ import streamlit as st
 
 
 st.set_page_config(
-    page_title="Centro de incidencias",
+    page_title="Centro de incidencias UNIOVI",
     page_icon="🛠️",
     layout="wide",
 )
